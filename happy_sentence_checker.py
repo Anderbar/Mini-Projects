@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep 24 16:11:50 2020
-
-@author: andrewfranco
-"""
-
 sentence = input("Enter a sentence => ")
 print(sentence)
 
